@@ -10,15 +10,28 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Introduction
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I’m passionate about IT and cybersecurity, I would like to employ my skills and what I’ve learned throughout college and the labs that I have worked on. I would love to apply my skills as a IT technician, IT help desk, service desk engineer.
 
-## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## My Skills:
+
+*   Information Systems: Linux, Windows
+*   Programming Languaes: Python
+*   MS Word, Excel
+*   Documentation
+*   Consistent
+*   Deadline Driven
+*   Good Communication Skills
+*   Languagues Spoken: English, Bisaya, Tagalog
+
+
+## My Cybersecurity Projects
+
+> [Secure Hacking Lab](./https://github.com/7jason771/My_Cyber_Projects/blob/main/SecureHackingLab_jsalerno.pdf).
+> [Secure Kali Drive](./[another-page.html](https://github.com/7jason771/My_Cyber_Projects/blob/main/Encrypted_Persistent_Flash_Drive.pdf)).
+> [Gray Box Project](./[another-page.html](https://github.com/7jason771/My_Cyber_Projects/blob/main/Gray_Box_Test_2_VMs.pdf)).
 
 ### Header 3
 
@@ -37,11 +50,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
 
 ##### Header 5
 
