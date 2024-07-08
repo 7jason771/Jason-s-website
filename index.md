@@ -36,11 +36,11 @@ I’m passionate about IT and cybersecurity, I would like to employ my skills an
 
 ## My Cybersecurity Projects
 
-1.  [Secure Hacking Lab](https://github.com/7jason771/My_Cyber_Projects/blob/main/SecureHackingLab_jsalerno.pdf).
+1.  [Secure Hacking Lab](https://github.com/7jason771/My_Cyber_Projects/blob/main/SecureHackingLab_jsalerno.pdf)
 
-2.  [Secure Kali Drive](https://github.com/7jason771/My_Cyber_Projects/blob/main/Encrypted_Persistent_Flash_Drive.pdf)).
+2.  [Secure Kali Drive](https://github.com/7jason771/My_Cyber_Projects/blob/main/Encrypted_Persistent_Flash_Drive.pdf)
 
-3.  [Gray Box Project](https://github.com/7jason771/My_Cyber_Projects/blob/main/Gray_Box_Test_2_VMs.pdf).
+3.  [Gray Box Project](https://github.com/7jason771/My_Cyber_Projects/blob/main/Gray_Box_Test_2_VMs.pdf)
 
 
 ### Header 3
@@ -70,12 +70,15 @@ end
 
 ###### Header 6
 
-| head1        | head two          | three |
+| Certification        | Date          | Verified |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| CompTIA Security+ | June 13, 2024   | Yes  |
+| CompTIA A+           | January 10, 2024 | Yes  |
+| CCNA: Switching, Routing, and Wireless Essentials          | June 21, 2024    | Yes   |
+| CCNA: Introduction to Networks        | April 21, 2024| Yes |
+| Introduction to Cybersecurity         | January 10, 2024 | Yes  |
+| IT Essentials         | June 21, 2024 | Yes  |
+
 
 ### There's a horizontal rule below this.
 
