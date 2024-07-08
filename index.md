@@ -15,6 +15,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 I’m passionate about IT and cybersecurity, I would like to employ my skills and what I’ve learned throughout college and the labs that I have worked on. I would love to apply my skills as a IT technician, IT help desk, service desk engineer.
 
 
+
 ## My Skills:
 
 *   Information Systems: Linux, Windows
@@ -32,6 +33,7 @@ I’m passionate about IT and cybersecurity, I would like to employ my skills an
 *   Good Communication Skills
   
 *   Languagues Spoken: English, Bisaya, Tagalog
+
 
 
 ## My Cybersecurity Projects
@@ -67,17 +69,18 @@ end
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
+   
 
-###### Header 6
+### IT Industry Certifications
 
 | Certification        | Date          | Verified |
 |:-------------|:------------------|:------|
-| CompTIA Security+ | June 13, 2024   | Yes  |
-| CompTIA A+           | January 10, 2024 | Yes  |
-| CCNA: Switching, Routing, and Wireless Essentials          | June 21, 2024    | Yes   |
-| CCNA: Introduction to Networks        | April 21, 2024| Yes |
-| Introduction to Cybersecurity         | January 10, 2024 | Yes  |
-| IT Essentials         | June 21, 2024 | Yes  |
+| CompTIA Security+ | June 13, 2024   |  Yes  |
+| CompTIA A+           | January 10, 2024 |  Yes  |
+| CCNA: Switching, Routing, and Wireless Essentials          | June 21, 2024    |  Yes   |
+| CCNA: Introduction to Networks        | April 21, 2024|  Yes |
+| Introduction to Cybersecurity         | January 10, 2024 |  Yes  |
+| IT Essentials         | June 21, 2024 |  Yes  |
 
 
 ### There's a horizontal rule below this.
@@ -141,5 +144,5 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 
 ```
-The final element.
+Thank you for visiting my website!
 ```
