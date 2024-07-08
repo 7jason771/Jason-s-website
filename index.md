@@ -18,20 +18,30 @@ I’m passionate about IT and cybersecurity, I would like to employ my skills an
 ## My Skills:
 
 *   Information Systems: Linux, Windows
+  
 *   Programming Languaes: Python
+  
 *   MS Word, Excel
+
 *   Documentation
+
 *   Consistent
+
 *   Deadline Driven
+  
 *   Good Communication Skills
+  
 *   Languagues Spoken: English, Bisaya, Tagalog
 
 
 ## My Cybersecurity Projects
 
-> [Secure Hacking Lab](./https://github.com/7jason771/My_Cyber_Projects/blob/main/SecureHackingLab_jsalerno.pdf).
-> [Secure Kali Drive](./[another-page.html](https://github.com/7jason771/My_Cyber_Projects/blob/main/Encrypted_Persistent_Flash_Drive.pdf)).
-> [Gray Box Project](./[another-page.html](https://github.com/7jason771/My_Cyber_Projects/blob/main/Gray_Box_Test_2_VMs.pdf)).
+1.  [Secure Hacking Lab](https://github.com/7jason771/My_Cyber_Projects/blob/main/SecureHackingLab_jsalerno.pdf).
+
+2.  [Secure Kali Drive](https://github.com/7jason771/My_Cyber_Projects/blob/main/Encrypted_Persistent_Flash_Drive.pdf)).
+
+3.  [Gray Box Project](https://github.com/7jason771/My_Cyber_Projects/blob/main/Gray_Box_Test_2_VMs.pdf).
+
 
 ### Header 3
 
