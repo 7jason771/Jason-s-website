@@ -214,5 +214,10 @@ _)      \.___.,|     .'
 
 
 ```
-Thank you for visiting my website!
-```
+
+
+
+<div style="text-align: center;">
+    Thank you for visiting my website!
+</div>
+
