@@ -191,14 +191,13 @@ if __name__ == "__main__":
 
 
 
-   
 
 ```
 
          _nnnn_                      
-        dGGGGMMb     ,"""""""""""""""""""""""""""""""""""""""""".
-       @p~qp~~qMb    | Thank you for visiting my website! -Jason|
-       M|@||@) M|   _;..........................................'
+        dGGGGMMb     ,"""""""""""""""""""""""""".
+       @p~qp~~qMb    | Have a great day! -Jason |
+       M|@||@) M|   _;..........................'
        @,----.JM| -'
       JS^\__/  qKL
      dZP        qKRb
@@ -220,4 +219,3 @@ _)      \.___.,|     .'
 <div style="text-align: center;">
     Thank you for visiting my website!
 </div>
-
