@@ -187,23 +187,18 @@ def main():
 if __name__ == "__main__":
     main()
 
-
 ```
 
 
 
    
 
-
-
-
-
-<link rel="stylesheet" href="styles.css">
+```
 
          _nnnn_                      
-        dGGGGMMb     ,""""""""""""""""""""""""""""""""""".
-       @p~qp~~qMb    | Thank you for visiting my website!|
-       M|@||@) M|   _;...................................'
+        dGGGGMMb     ,"""""""""""""""""""""""""""""""""""""""""".
+       @p~qp~~qMb    | Thank you for visiting my website! -Jason|
+       M|@||@) M|   _;..........................................'
        @,----.JM| -'
       JS^\__/  qKL
      dZP        qKRb
@@ -216,10 +211,6 @@ if __name__ == "__main__":
 _)      \.___.,|     .'
 \____   )MMMMMM|   .'
      `-'       `--' 
-
-
-<div style="text-align: center;">
-
 
 
 ```
