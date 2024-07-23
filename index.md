@@ -45,9 +45,9 @@ I’m passionate about IT and cybersecurity, I would like to employ my skills an
 
 1.  [RCCs Ultimate Relocating Network Infrastructure](Link_Here)
 
-2.  [RCC CSC RPI Networking Project](Link_Here)
+2.  [RCC CSC RPI Networking Project](https://github.com/7jason771/My_Cyber_Projects/blob/main/CSC_RPI_Project_jsalerno.pdf)
 
-3.  [RCC RTB CTF](Link_Here)
+3.  [RCC RTB CTF](https://github.com/7jason771/My_Cyber_Projects/blob/main/2024_RTB_CTF_Setup_Ubuntu.pdf)
 
 4.  [Secure Hacking Lab](https://github.com/7jason771/My_Cyber_Projects/blob/main/SecureHackingLab_jsalerno.pdf)
 
@@ -55,9 +55,9 @@ I’m passionate about IT and cybersecurity, I would like to employ my skills an
 
 6.  [Gray Box Project](https://github.com/7jason771/My_Cyber_Projects/blob/main/Gray_Box_Test_2_VMs.pdf)
 
-7.  [RPI_DCHP_Server](Link_Here)
+7.  [RPI_DCHP_Server](https://github.com/7jason771/My_Cyber_Projects/blob/main/RPI_DHCP_server_jsalerno.pdf)
 
-8.  [RPI_DNS_Server](Link_Here)
+8.  [RPI_DNS_Server](https://github.com/7jason771/My_Cyber_Projects/blob/main/RPI_DNS_server_jsalerno.pdf)
 
 
 
