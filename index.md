@@ -34,6 +34,7 @@ I’m passionate about IT and cybersecurity, I would like to employ my skills an
 |:-------------|:------------------|:------|
 | CompTIA Security+ | June 13, 2024   |  Yes  |
 | CompTIA A+           | January 10, 2024 |  Yes  |
+| ISC2 Certified in Cybersecurity (CC) | September 28, 2024 | Yes
 | CCNA: Switching, Routing, and Wireless Essentials          | June 21, 2024    |  Yes   |
 | CCNA: Introduction to Networks        | April 21, 2024|  Yes |
 | Introduction to Cybersecurity         | January 10, 2024 |  Yes  |
@@ -43,7 +44,7 @@ I’m passionate about IT and cybersecurity, I would like to employ my skills an
 
 ## My Cybersecurity Projects
 
-1.  [RCCs Ultimate Relocating Network Infrastructure](Link_Here)
+1.  [RCCs Ultimate Relocating Network Infrastructure](https://github.com/7jason771/RCCs-Relocating-Network-Infrastructure)
 
 2.  [RCC CSC RPI Networking Project](https://github.com/7jason771/My_Cyber_Projects/blob/main/CSC_RPI_Project_jsalerno.pdf)
 
